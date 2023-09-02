@@ -1,0 +1,7 @@
+not_push.txt
+should_not_push/*
+terraform.tfstate
+terraform.tfstate.*
+.terraform.*
+.terraform/*
+temp_for_other_tfFiles/*
